@@ -26,6 +26,6 @@ public class ReadUserIn {
             }
         }
         scanner.close();
-        ;lineScanner.close();
+        lineScanner.close();
     }
 }
